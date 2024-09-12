@@ -30,6 +30,7 @@
 4. The next page is the "Client Filter Setup" page. On this page, you have the option to only allow certain clients to connect to the device or deny certain clients the ability to connect. These lists leverage a device's MAC address. This page may or may not be used, depending on MP scoping/requests.
    
 ![](Resources/client_filter.png)
+
 5. The next page, "SSID Filter Setup" is similar to the previous page. It is used to either only allow certain SSIDs to associated or deny certain SSIDs to be associated.![](Resources/ssid_filter.png)
 6. Select theme for the interface and accept both "Terms of Service" & "License Agreement" and select "Finish". You are then redirected to the dashboard interface of the Pineapple. Again, use root and the standard Assess password set in step 2.
 7. Upon initial login, you may notice a notification that states the Pineapple isn't connected to the internet. This isn't necessary for usage however if the mission partner has provided access to either a WAP or extra physical port to connect to, feel free to select appropriate option for connectivity.
